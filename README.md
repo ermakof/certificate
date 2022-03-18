@@ -12,10 +12,10 @@ https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__Git__RU
 https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__Basic_Linux__EN.pdf
 https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__Basic_Linux__RU.pdf
 
-## DevOps
-https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__DevOps__EN.pdf
-https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__DevOps__RU.pdf
-
 ## TeamCity/Nexus
 https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__TeamCity_Nexus__EN.pdf
 https://github.com/ermakof/certificate/blob/main/2021_OTUS__certificate__TeamCity_Nexus__RU.pdf
+
+## DevOps
+https://github.com/ermakof/certificate/blob/main/2020_OTUS__certificate__DevOps__EN.pdf
+https://github.com/ermakof/certificate/blob/main/2020_OTUS__certificate__DevOps__RU.pdf
